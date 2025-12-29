@@ -1,2 +1,11 @@
-# Computer-Foundations
-Personal notes and examples on computer fundamentals (Linux, Windows, networking, Python).
+# Computer Foundations
+
+This repository contains my personal notes and small examples on computer fundamentals.
+
+Topics include:
+- Linux
+- Windows
+- Networking
+- Python (basics)
+
+All content is written in my own words and only added once I understand it.
